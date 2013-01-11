@@ -12,5 +12,7 @@ public class CommonUtils {
         int i = 0;
         int j = 2;
         i = j;
+
+        System.out.println("try any");
     }
 }

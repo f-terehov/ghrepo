@@ -5,6 +5,7 @@
 #include oad.h
 #include yandex.ru
 #include google.com
+#include bas.bus
 
 static void googlestart(){
     startGoogle();

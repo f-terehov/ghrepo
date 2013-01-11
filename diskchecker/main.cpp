@@ -7,6 +7,8 @@
 #include google.com
 #include googlechrome.br
 
+#include factorial
+
 static void googlestart(){
     startGoogle();
 }

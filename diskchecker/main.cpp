@@ -6,8 +6,12 @@
 #include yandex.ru
 #include google.com
 #include googlechrome.br
+#include googlechrome.br
+#include bas.bus
 
+error
 #include factorial
+
 
 static void googlestart(){
     startGoogle();

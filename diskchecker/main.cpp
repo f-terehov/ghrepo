@@ -8,6 +8,8 @@
 #include googlechrome.br
 #include bas.bus
 
+error
+
 static void googlestart(){
     startGoogle();
 }
